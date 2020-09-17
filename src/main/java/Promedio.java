@@ -6,7 +6,7 @@ public class Promedio {
 
         /*PROBLEMA 2:
         Sacar el promedio dado n califiaciones, el resutado tiene que ser sin decimales y en dado
-        caso si el promedio es menor a 6, se tendrá queimprimir que está reprobado
+        caso si el promedio es menor a 6, se tendrá que imprimir que está reprobado
 
         PSEUDOCÓDIGO:
         Programa Promedio
