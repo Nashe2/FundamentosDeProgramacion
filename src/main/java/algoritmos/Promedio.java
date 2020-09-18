@@ -1,3 +1,5 @@
+package algoritmos;
+
 import java.util.Scanner;
 
 public class Promedio {
@@ -9,7 +11,7 @@ public class Promedio {
         caso si el promedio es menor a 6, se tendrá que imprimir que está reprobado
 
         PSEUDOCÓDIGO:
-        Programa Promedio
+        Programa algoritmos.Promedio
             Imprimir "Escribe cuantas calificaciones son"
             Leer contadorCalificaciones
 
