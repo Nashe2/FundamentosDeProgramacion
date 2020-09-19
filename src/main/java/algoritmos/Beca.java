@@ -83,6 +83,7 @@ public class Beca {
             double promedio = Double.parseDouble(input.nextLine());
 
             if (edad > 18) {
+                // Operador Ternario (?): Es una función que sirve como If pero se ocupa para asignar variables
                 beca = (promedio >= 9) ? 2000.0 :
                        (promedio < 9 && promedio >= 7.5) ? 1000.0 :
                        (promedio < 7.5 && promedio >= 6) ? 500.0 :
